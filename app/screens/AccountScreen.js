@@ -49,8 +49,8 @@ function AccountScreen(props) {
           ItemSeparatorComponent={ ListItemSeparator }
         />
       </View>
-      <ListItem 
-        title="Logout"
+      <ListItem
+        title="Log Out"
         IconComponent={
           <Icon name="logout" backgroundColor='#ffe66d'/>
         }
